@@ -5,8 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MyNotePad"
         mc:Ignorable="d"
-        Title="Блокнот" Height="450" Width="1000" Background="AliceBlue">
-    <Grid>
-        <Button Name="button1" Click="button1_Click" Content="Закрыть" Height="50" Width="100"></Button>
-    </Grid>
+        Title="Блокнот" Height="450" Width="1000" Background="LightGreen">
+    <Grid/>
 </Window>
