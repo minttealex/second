@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\bin\Debug\MyNotePad.exe.config
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\bin\Debug\MyNotePad.exe
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\bin\Debug\MyNotePad.pdb
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\obj\Debug\App.g.cs
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\obj\Debug\MyNotePad_MarkupCompile.cache
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\obj\Debug\MyNotePad_MarkupCompile.lref
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\obj\Debug\MainWindow.baml
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\obj\Debug\MyNotePad.g.resources
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\obj\Debug\MyNotePad.Properties.Resources.resources
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\obj\Debug\MyNotePad.exe
+C:\Users\ASUS\source\repos\second\MyNotePad\MyNotePad\obj\Debug\MyNotePad.pdb
